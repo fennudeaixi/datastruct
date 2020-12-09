@@ -2,7 +2,7 @@
 
 思想:
 
-![image-20201209212117879](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201209212117879.png)
+![](D:\wwwgit\datastruct\mergeSort\image-20201209212117879.png)
 
 **CODE**
 
@@ -55,11 +55,11 @@ private:
 <br />
 <br />
 
-![image-20201209212239864](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201209212239864.png)
+![image-20201209212239864](D:\wwwgit\datastruct\mergeSort\image-20201209212239864.png)
 
 TIME  横线以上 O(1+2+4+....n)=o(n)  横线以下 有logN层  T(O)=O(NlogN)
 
-![image-20201209212347327](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201209212347327.png)
+![image-20201209212347327](D:\wwwgit\datastruct\mergeSort\image-20201209212347327.png)
 
 
 
